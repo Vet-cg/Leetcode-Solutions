@@ -1,7 +1,8 @@
-cmake_minimum_required(VERSION 3.29)
+cmake_minimum_required(VERSION 3.16)
 project(Leetcode_Solutions)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Leetcode_Solutions
-    Neetcode/ArraysAndHashing/217.cpp)
+# Add all problem directories manually or with a loop
+add_subdirectory(Neetcode/ArraysAndHashing/Problem217)
+add_subdirectory(Neetcode/ArraysAndHashing/Problem242)

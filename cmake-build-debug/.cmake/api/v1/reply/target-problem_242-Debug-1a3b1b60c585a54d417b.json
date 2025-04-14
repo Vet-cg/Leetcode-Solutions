@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Leetcode_Solutions.exe"
+			"path" : "Neetcode/ArraysAndHashing/Problem242/problem_242.exe"
 		},
 		{
-			"path" : "Leetcode_Solutions.pdb"
+			"path" : "Neetcode/ArraysAndHashing/Problem242/problem_242.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -17,7 +17,7 @@
 		],
 		"files" : 
 		[
-			"CMakeLists.txt"
+			"Neetcode/ArraysAndHashing/Problem242/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 6,
+				"line" : 1,
 				"parent" : 0
 			}
 		]
@@ -38,7 +38,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++14 -fdiagnostics-color=always"
+					"fragment" : "-g -std=gnu++17 -fdiagnostics-color=always"
 				}
 			],
 			"language" : "CXX",
@@ -48,7 +48,7 @@
 				[
 					1
 				],
-				"standard" : "14"
+				"standard" : "17"
 			},
 			"sourceIndexes" : 
 			[
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "Leetcode_Solutions::@6890427a1f51a3e7e1df",
+	"id" : "problem_242::@89976ffbde335d81c2e8",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,12 +76,12 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Leetcode_Solutions",
-	"nameOnDisk" : "Leetcode_Solutions.exe",
+	"name" : "problem_242",
+	"nameOnDisk" : "problem_242.exe",
 	"paths" : 
 	{
-		"build" : ".",
-		"source" : "."
+		"build" : "Neetcode/ArraysAndHashing/Problem242",
+		"source" : "Neetcode/ArraysAndHashing/Problem242"
 	},
 	"sourceGroups" : 
 	[
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Neetcode/ArraysAndHashing/217.cpp",
+			"path" : "Neetcode/ArraysAndHashing/Problem242/242.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

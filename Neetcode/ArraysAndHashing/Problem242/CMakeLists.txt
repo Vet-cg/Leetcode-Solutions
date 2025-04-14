@@ -1,0 +1,1 @@
+add_executable(problem_242 242.cpp)

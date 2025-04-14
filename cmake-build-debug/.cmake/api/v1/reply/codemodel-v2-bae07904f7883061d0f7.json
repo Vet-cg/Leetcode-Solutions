@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Neetcode/ArraysAndHashing/Problem217",
+					"jsonFile" : "directory-Neetcode.ArraysAndHashing.Problem217-Debug-f211bf5f774a7f230830.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Neetcode/ArraysAndHashing/Problem217",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Neetcode/ArraysAndHashing/Problem242",
+					"jsonFile" : "directory-Neetcode.ArraysAndHashing.Problem242-Debug-80fff4181dad98724f52.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Neetcode/ArraysAndHashing/Problem242",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Leetcode_Solutions",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "problem_217::@0377630342e5a691833f",
+					"jsonFile" : "target-problem_217-Debug-bce13f3620b10a6389f6.json",
+					"name" : "problem_217",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "problem_242::@89976ffbde335d81c2e8",
+					"jsonFile" : "target-problem_242-Debug-1a3b1b60c585a54d417b.json",
+					"name" : "problem_242",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/cbpcb/OneDrive/Documents/GitHub/Leetcode-Solutions/cmake-build-debug",
+		"source" : "C:/Users/cbpcb/OneDrive/Documents/GitHub/Leetcode-Solutions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

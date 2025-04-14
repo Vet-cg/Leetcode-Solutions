@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "Neetcode/ArraysAndHashing/Problem242",
+		"source" : "Neetcode/ArraysAndHashing/Problem242"
+	}
+}
