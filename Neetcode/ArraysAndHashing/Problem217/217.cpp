@@ -25,8 +25,8 @@
  * Output: true
  *
  * Constraints:
- * 1 <= nums.length <= 105
- * -109 <= nums[i] <= 109
+ * 1 <= nums.length <= 10^5
+ * -10^9 <= nums[i] <= 10^9
  */
 #include <algorithm>
 #include <iostream>
@@ -57,7 +57,7 @@ int main() {
   return 0;
 }
 
-/* Solution explained:
+/* Solution Explanation:
  * One might initially approach this problem with a brute-force solution,
  * comparing each integer in the array to every other integer. While this
  * works, it has a time complexity of O(n^2).

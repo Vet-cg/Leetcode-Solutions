@@ -1,8 +1,10 @@
 # ninja log v6
 9	776	7663446836870487	CMakeFiles/Leetcode_Solutions.dir/Neetcode/ArraysAndHashing/217.cpp.obj	2818b5331087db96
 18	856	7663446836961890	CMakeFiles/Leetcode_Solutions.dir/Neetcode/ArraysAndHashing/242.cpp.obj	5f906917d21ea272
-4	340	7663455800722501	build.ninja	11ab7eedffda0018
-3	825	7663455883304495	Neetcode/ArraysAndHashing/Problem217/CMakeFiles/problem_217.dir/217.cpp.obj	794397816ff2ba22
+4	340	7663491903629785	build.ninja	11ab7eedffda0018
 838	1019	7663455891642029	Neetcode/ArraysAndHashing/Problem217/problem_217.exe	44ba3d50da05a76c
 4	946	7663455941905730	Neetcode/ArraysAndHashing/Problem242/CMakeFiles/problem_242.dir/242.cpp.obj	b7c1709060681e6a
+3	825	7663455883304495	Neetcode/ArraysAndHashing/Problem217/CMakeFiles/problem_217.dir/217.cpp.obj	794397816ff2ba22
 960	1147	7663455951467678	Neetcode/ArraysAndHashing/Problem242/problem_242.exe	564b81b7ab8bf920
+8	971	7663499864662086	Neetcode/ArraysAndHashing/Problem242/CMakeFiles/problem_242.dir/242.cpp.obj	b7c1709060681e6a
+972	1173	7663499874290781	Neetcode/ArraysAndHashing/Problem242/problem_242.exe	564b81b7ab8bf920

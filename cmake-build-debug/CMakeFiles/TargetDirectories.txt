@@ -6,3 +6,6 @@ C:/Users/cbpcb/OneDrive/Documents/GitHub/Leetcode-Solutions/cmake-build-debug/Ne
 C:/Users/cbpcb/OneDrive/Documents/GitHub/Leetcode-Solutions/cmake-build-debug/Neetcode/ArraysAndHashing/Problem242/CMakeFiles/problem_242.dir
 C:/Users/cbpcb/OneDrive/Documents/GitHub/Leetcode-Solutions/cmake-build-debug/Neetcode/ArraysAndHashing/Problem242/CMakeFiles/edit_cache.dir
 C:/Users/cbpcb/OneDrive/Documents/GitHub/Leetcode-Solutions/cmake-build-debug/Neetcode/ArraysAndHashing/Problem242/CMakeFiles/rebuild_cache.dir
+C:/Users/cbpcb/OneDrive/Documents/GitHub/Leetcode-Solutions/cmake-build-debug/Neetcode/ArraysAndHashing/Problem1/CMakeFiles/problem_1.dir
+C:/Users/cbpcb/OneDrive/Documents/GitHub/Leetcode-Solutions/cmake-build-debug/Neetcode/ArraysAndHashing/Problem1/CMakeFiles/edit_cache.dir
+C:/Users/cbpcb/OneDrive/Documents/GitHub/Leetcode-Solutions/cmake-build-debug/Neetcode/ArraysAndHashing/Problem1/CMakeFiles/rebuild_cache.dir

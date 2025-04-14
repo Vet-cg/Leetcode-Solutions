@@ -155,6 +155,9 @@
 		},
 		{
 			"path" : "Neetcode/ArraysAndHashing/Problem242/CMakeLists.txt"
+		},
+		{
+			"path" : "Neetcode/ArraysAndHashing/Problem1/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
