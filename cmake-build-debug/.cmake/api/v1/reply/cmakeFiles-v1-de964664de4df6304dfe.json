@@ -158,6 +158,9 @@
 		},
 		{
 			"path" : "Neetcode/ArraysAndHashing/Problem1/CMakeLists.txt"
+		},
+		{
+			"path" : "Neetcode/ArraysAndHashing/Problem49/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

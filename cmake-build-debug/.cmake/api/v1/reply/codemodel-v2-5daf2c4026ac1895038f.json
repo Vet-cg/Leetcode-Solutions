@@ -10,7 +10,8 @@
 					[
 						1,
 						2,
-						3
+						3,
+						4
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -64,6 +65,21 @@
 					[
 						0
 					]
+				},
+				{
+					"build" : "Neetcode/ArraysAndHashing/Problem49",
+					"jsonFile" : "directory-Neetcode.ArraysAndHashing.Problem49-Debug-ce8bc4fe89932a974800.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Neetcode/ArraysAndHashing/Problem49",
+					"targetIndexes" : 
+					[
+						3
+					]
 				}
 			],
 			"name" : "Debug",
@@ -75,14 +91,16 @@
 						0,
 						1,
 						2,
-						3
+						3,
+						4
 					],
 					"name" : "Leetcode_Solutions",
 					"targetIndexes" : 
 					[
 						0,
 						1,
-						2
+						2,
+						3
 					]
 				}
 			],
@@ -107,6 +125,13 @@
 					"id" : "problem_242::@89976ffbde335d81c2e8",
 					"jsonFile" : "target-problem_242-Debug-1a3b1b60c585a54d417b.json",
 					"name" : "problem_242",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "problem_49::@2189bc8b084dd9614015",
+					"jsonFile" : "target-problem_49-Debug-19f92f712822487333f3.json",
+					"name" : "problem_49",
 					"projectIndex" : 0
 				}
 			]

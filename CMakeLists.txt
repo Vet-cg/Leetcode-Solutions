@@ -7,3 +7,5 @@ set(CMAKE_CXX_STANDARD 17)
 add_subdirectory(Neetcode/ArraysAndHashing/Problem217)
 add_subdirectory(Neetcode/ArraysAndHashing/Problem242)
 add_subdirectory(Neetcode/ArraysAndHashing/Problem1)
+add_subdirectory(Neetcode/ArraysAndHashing/Problem49)
+
